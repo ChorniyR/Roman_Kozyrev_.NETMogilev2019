@@ -1,0 +1,7 @@
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\bin\Debug\module3_8.exe.config
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\bin\Debug\module3_8.exe
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\bin\Debug\module3_8.pdb
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\obj\Debug\module3_8.csprojAssemblyReference.cache
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\obj\Debug\module3_8.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\obj\Debug\module3_8.exe
+C:\Users\Roman Kozyrev\Desktop\module3\module3_8\module3_8\obj\Debug\module3_8.pdb
