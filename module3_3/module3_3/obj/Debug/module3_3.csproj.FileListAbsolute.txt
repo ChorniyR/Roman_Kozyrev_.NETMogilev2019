@@ -1,0 +1,6 @@
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\bin\Debug\module3_3.exe.config
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\bin\Debug\module3_3.exe
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\bin\Debug\module3_3.pdb
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\obj\Debug\module3_3.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\obj\Debug\module3_3.exe
+C:\Users\Roman Kozyrev\Desktop\module3\module3_3\module3_3\obj\Debug\module3_3.pdb
