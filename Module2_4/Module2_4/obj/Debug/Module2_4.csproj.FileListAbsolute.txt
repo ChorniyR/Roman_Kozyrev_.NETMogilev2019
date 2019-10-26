@@ -1,0 +1,7 @@
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\bin\Debug\Module2_4.exe.config
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\bin\Debug\Module2_4.exe
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\bin\Debug\Module2_4.pdb
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\obj\Debug\Module2_4.csprojAssemblyReference.cache
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\obj\Debug\Module2_4.csproj.CoreCompileInputs.cache
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\obj\Debug\Module2_4.exe
+F:\Roman_Kozyrev_.NETMogilev2019\Module2_4\Module2_4\obj\Debug\Module2_4.pdb
