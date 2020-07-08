@@ -1,0 +1,7 @@
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\bin\Debug\module4_4.exe.config
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\bin\Debug\module4_4.exe
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\bin\Debug\module4_4.pdb
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\obj\Debug\module4_4.csprojAssemblyReference.cache
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\obj\Debug\module4_4.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\obj\Debug\module4_4.exe
+C:\Users\Roman Kozyrev\Desktop\module4\module4_4\module4_4\obj\Debug\module4_4.pdb
